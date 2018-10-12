@@ -1,4 +1,4 @@
-package com.twelker.studentportal;
+package com.twelker.assignmentsp;
 
 import org.junit.Test;
 

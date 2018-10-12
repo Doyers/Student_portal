@@ -1,4 +1,4 @@
-package com.twelker.studentportal;
+package com.twelker.assignmentsp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.twelker.studentportal", appContext.getPackageName());
+        assertEquals("com.twelker.assignmentsp", appContext.getPackageName());
     }
 }
